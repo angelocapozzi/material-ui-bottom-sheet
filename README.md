@@ -14,12 +14,12 @@ See this component in [action](https://teamwertarbyte.github.io/material-ui-bott
 
 ## Installation
 ```shell
-npm i --save react-custom-scrollbars material-ui-bottom-sheet
+npm i --save react-custom-scrollbars material-ui-bottom-sheet-webeetle
 ```
 
 ## Usage
 ```js
-import { BottomSheet } from 'material-ui-bottom-sheet'
+import { BottomSheet } from 'material-ui-bottom-sheet-webeetle'
 import { List, ListItem, Subheader } from 'material-ui'
 
 // ...
