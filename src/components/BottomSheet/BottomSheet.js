@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
-import { Paper } from 'material-ui'
+import Paper from '@material-ui/core/Paper';
 
 /**
  * Material design bottom sheet

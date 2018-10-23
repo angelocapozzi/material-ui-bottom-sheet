@@ -1,6 +1,6 @@
 Normal:
 ```
-const { RaisedButton, Subheader, List, ListItem } = require('material-ui');
+const { RaisedButton, Subheader, List, ListItem } = require('@material-ui/core');
     <div>
     <RaisedButton label="Open BottomSheet" onClick={() => setState({isOpen: true})} />
       <BottomSheet
@@ -19,8 +19,8 @@ const { RaisedButton, Subheader, List, ListItem } = require('material-ui');
 ```
 Actions:
 ```
-const { FloatingActionButton, Divider, RaisedButton, List, ListItem } = require('material-ui');
-const { DeviceAccessTime, MapsDirectionsCar, MapsPlace, MapsLocalPhone } = require('material-ui/svg-icons');
+const { FloatingActionButton, Divider, RaisedButton, List, ListItem } = require('@material-ui/core');
+const { DeviceAccessTime, MapsDirectionsCar, MapsPlace, MapsLocalPhone } = require('@material-ui/core/svg-icons');
     <div>
     <RaisedButton label="Open BottomSheet" onClick={() => setState({isOpen: true})} />
       <BottomSheet
